@@ -13,7 +13,7 @@ export default function ProdutosBots() {
             <section className="mt-[100px] lg:mt-[120px]">
                 <ModalPages
                     text="Bots"
-                    description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+                    description="Torne seu servidor no Discord mais inteligente e interativo com nossos bots."
                 />
                 <FadeInOnScroll>
                     <div className="flex flex-wrap py-10 lg:px-[12rem] items-center justify-between">

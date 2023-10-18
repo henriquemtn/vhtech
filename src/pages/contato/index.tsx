@@ -61,7 +61,7 @@ const Contato = () => {
         <section className="text-gray-600 body-font relative mt-[100px] lg:mt-[120px]" id="contato">
         <ModalPages
           text="Contato"
-          description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+          description="Nos contate para tirar suas dúvidas e enviar sugestões."
         />
             <div className="container px-5 py-16 mx-auto">
                 <div className="flex flex-col text-center w-full mb-12">

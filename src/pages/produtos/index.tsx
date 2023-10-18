@@ -12,7 +12,7 @@ export default function Produtos() {
             <section className="mt-[100px] lg:mt-[120px]">
                 <ModalPages
                     text="Produtos"
-                    description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+                    description="Explore nossa variedade de sistemas para aprimorar sua vida pessoal ou empresarial."
                 />
                 <FadeInOnScroll>
                     <div className="flex flex-wrap py-10 lg:px-[12rem] items-center justify-between">
@@ -20,7 +20,7 @@ export default function Produtos() {
                             <img src={Image} alt="imagem" className="w-full h-auto" />
                             <p className="text-vh text-base mt-1">Personalizado</p>
                             <h1 className="text-xl font-medium">Aplicações</h1>
-                            <p>Manutenção semanal para sites já existentes.</p>
+                            <p>Sistemas personalizados para solucionar problemas diários.</p>
                             <a href="/produtos/aplicacoes" className="cursor-pointer flex justify-end items-center gap-1 text-base font-medium text-vh2">
                                 Saiba mais
                                 <HiOutlineArrowSmRight className="mt-[2px]" />
@@ -30,7 +30,7 @@ export default function Produtos() {
                             <img src={Image2} alt="imagem" className="w-full h-auto" />
                             <p className="text-vh text-base mt-1">Personalizado</p>
                             <h1 className="text-xl font-medium">Automatizações</h1>
-                            <p>Manutenção semanal para sites já existentes.</p>
+                            <p>Sistemas automatizados para facilitar tarefas diárias.</p>
                             <a href="/produtos/automatizacoes" className="cursor-pointer flex justify-end items-center gap-1 text-base font-medium text-vh2">
                                 Saiba mais
                                 <HiOutlineArrowSmRight className="mt-[2px]" />
@@ -40,7 +40,7 @@ export default function Produtos() {
                             <img src={Image3} alt="imagem" className="w-full h-auto" />
                             <p className="text-vh text-base mt-1">Personalizado</p>
                             <h1 className="text-xl font-medium">Bots</h1>
-                            <p>Manutenção semanal para sites já existentes.</p>
+                            <p>Bots de Discord para impulsionar seu servidor.</p>
                             <a href="/produtos/bots" className="cursor-pointer flex justify-end items-center gap-1 text-base font-medium text-vh2">
                                 Saiba mais
                                 <HiOutlineArrowSmRight className="mt-[2px]" />

@@ -13,14 +13,14 @@ export default function ProdutosApp() {
             <section className="mt-[100px] lg:mt-[120px]">
                 <ModalPages
                     text="Aplicações"
-                    description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+                    description="Desenvolvemos aplicativos personalizados para atender às suas necessidades."
                 />
                 <FadeInOnScroll>
                     <div className="flex flex-wrap py-10 lg:px-[12rem] items-center justify-between">
                         <ModalProdutos 
                         subtitle="Pronta entrega"
                         title="Agenda de tarefas"
-                        description="descrição da agenda de tarefas"
+                        description="Aplicativo que permite a criação e gerenciamento de tarefas. Com sistema de notificação, tarefas personalizaveis, metas, e muitas outras funcionalidades."
                         image={Image2}
                         preco="400,00"
                         url="/#"
@@ -36,7 +36,7 @@ export default function ProdutosApp() {
                         <ModalProdutos 
                         subtitle="Pronta entrega"
                         title="Gerenciador de despesas"
-                        description="descrição do Gerenciador de despesas"
+                        description="Sistema que permite gerenciar suas despesas, com segurança e flexibilidade. Com funcionalidades como: metas, comparação com meses anteriores, entre muitas outras."
                         image={Image3}
                         preco="400,00"
                         url="/#"
@@ -44,7 +44,7 @@ export default function ProdutosApp() {
                         <ModalProdutos 
                         subtitle="Pronta entrega"
                         title="Social"
-                        description="descrição do Social"
+                        description="Aplicativo social, que permite você incluir apenas pessoas selecionadas para fazer parte de sua rede, é recomendado para melhorar comunicação interna em empresas."
                         image={Image4}
                         preco="1400,00"
                         url="/#"
