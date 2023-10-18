@@ -13,14 +13,14 @@ export default function ProdutosAuto() {
             <section className="mt-[100px] lg:mt-[120px]">
                 <ModalPages
                     text="Automatizações"
-                    description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+                    description="Simplificamos tarefas e processos com automações eficientes e intuitivas."
                 />
                 <FadeInOnScroll>
                     <div className="flex flex-wrap py-10 lg:px-[12rem] items-center justify-between">
                         <ModalProdutos 
                         subtitle="Pronta entrega"
                         title="Gerador de relatórios"
-                        description="descrição do Gerador de relatórios"
+                        description="Se preocupe mais em realizar suas tarefas, este aplicativo irá lhe fornecer um relatório semanal, com encaminhamento personalizado."
                         image={Image2}
                         preco="400,00"
                         url="/#"
@@ -36,7 +36,7 @@ export default function ProdutosAuto() {
                         <ModalProdutos 
                         subtitle="Pronta entrega"
                         title="Gerenciador de despesas"
-                        description="descrição do Gerenciador de despesas"
+                        description="Sistema que permite gerenciar suas despesas, com segurança e flexibilidade. Com funcionalidades como: metas, comparação com meses anteriores, entre muitas outras."
                         image={Image3}
                         preco="400,00"
                         url="/#"
@@ -44,7 +44,7 @@ export default function ProdutosAuto() {
                         <ModalProdutos 
                         subtitle="Pronta entrega"
                         title="Chatbot"
-                        description="descrição do Chatbot"
+                        description="Usar um sistema de chat na sua aplicação pode facilitar muito a comunicação com os clientes. Este sistema conta com um chatbot totalmente personalizavel para o seu negócio."
                         image={Image4}
                         preco="800,00"
                         url="/#"

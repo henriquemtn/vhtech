@@ -13,7 +13,7 @@ export default function Projetos() {
             <section className="mt-[100px] lg:mt-[120px]">
                 <ModalPages
                     text="Projetos"
-                    description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+                    description="Veja nossos projetos anteriores – sites e sistemas personalizados."
                 />
                 <FadeInOnScroll>
                     <div className="flex flex-wrap py-10 lg:px-[12rem] items-center justify-between">

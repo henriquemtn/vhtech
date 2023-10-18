@@ -31,16 +31,16 @@ export default function Hero({ text, description, buttonText }: CustomProps) {
                     </div>
                     <div className='flex flex-row gap-7 ms:mt-2 px-2 text-white md:items-start items-center text-center sm:text-start justify-center md:justify-start md:ml-10 ms:ml-20 ms:z-10'>
                         <div>
-                            <p>1200+</p>
-                            <p>Premium product</p>
+                            <p>4</p>
+                            <p>Aplicações</p>
                         </div>
                         <div>
-                            <p>4500+</p>
-                            <p>Premium product</p>
+                            <p>4</p>
+                            <p>Automações</p>
                         </div>
                         <div>
-                            <p>240+</p>
-                            <p>Aware Winning</p>
+                            <p>4</p>
+                            <p>Bots</p>
                         </div>
                     </div>
                 </FadeInOnScroll>

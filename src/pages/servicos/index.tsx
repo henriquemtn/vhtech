@@ -11,7 +11,7 @@ export default function Servicos() {
     <section className="mt-[100px] lg:mt-[120px]">
       <ModalPages
         text="Serviços"
-        description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+        description="Eleve o nível de tecnologia de sua empresa com nossos serviços personalizados."
       />
       <FadeInOnScroll>
         <div className="flex flex-wrap py-10 lg:px-[12rem] items-center justify-between">

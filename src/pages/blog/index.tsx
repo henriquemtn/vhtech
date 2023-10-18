@@ -12,7 +12,7 @@ export default function Blog() {
             <section className="mt-[100px] lg:mt-[120px]">
                 <ModalPages
                     text="Blog"
-                    description="Somos uma equipe apaixonada por tecnologia, dedicada a criar soluções digitais inovadoras para impulsionar o seu negócio."
+                    description="Fique por dentro das novidades nos nossos serviços e informações sobre o mundo da tecnologia."
                 />
                 <FadeInOnScroll>
                     <div className="flex flex-wrap py-10 lg:px-[12rem] items-center justify-between">
