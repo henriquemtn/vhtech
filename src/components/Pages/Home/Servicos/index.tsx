@@ -7,7 +7,7 @@ import FadeInOnScroll from "../../../../scripts/fadeInOnScroll";
 export default function HomeServicos() {
     return (
         <section className="w-full">
-            <Topper url="/servicos" title="Serviços" description="Fique por dentro, nosso Blog é atualizado semanalmente com novidades." buttonText="Ver todos os Serviços" />
+            <Topper url="/servicos" title="Serviços" description="Nossos serviços disponíveis no momento." buttonText="Ver todos os Serviços" />
             <FadeInOnScroll>
             <div className="flex flex-wrap mt-6 items-center justify-between">
                 <div className="w-full md:w-1/2 lg:w-1/3 p-4 min-h-[320px]">

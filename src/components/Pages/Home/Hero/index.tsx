@@ -22,7 +22,7 @@ export default function Hero({ text, description, buttonText }: CustomProps) {
         <div className="flex flex-col justify-center items-center w-full h-[875px] relative lg:mb-0" >
             <div className="bg-gray-500 w-full h-[557px] md:rounded-[10px] lg:mx-[150px] flex-col justify-center mb-32" style={containerStyle}>
                 <FadeInOnScroll>
-                    <div className="flex flex-col mt-10 md:mt-20 px-2 md:items-start items-center justify-center md:justify-start md:ml-10 ms:ml-20 md:z-10 mb-6">
+                    <div className="flex flex-col mt-16 md:mt-20 px-2 md:items-start items-center justify-center md:justify-start md:ml-10 ms:ml-20 md:z-10 mb-6">
                         <h1 className="text-center md:text-start font-bold text-3xl md:text-4xl text-white mb-4 md:max-w-[550px] lg:max-w-[750px]">{text}</h1>
                         <p className="text-[14px] text-center md:text-start text-white mb-4 max-w-[350px] md:max-w-[550px] lg:max-w-[750px]">{description}</p>
                         <a href="/sobre">

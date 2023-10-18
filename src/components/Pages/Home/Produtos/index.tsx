@@ -8,7 +8,7 @@ import { HiOutlineArrowSmRight } from 'react-icons/hi';
 export default function HomeProdutos() {
     return (
         <section className="w-full">
-            <Topper url="/produtos" title="Produtos" description="Fique por dentro, nosso Blog é atualizado semanalmente com novidades." buttonText="Ver todos os Produtos" />
+            <Topper url="/produtos" title="Produtos" description="Confira alguns de nossos produtos em destaque." buttonText="Ver todos os Produtos" />
             <FadeInOnScroll>
             <div className="flex flex-wrap items-center justify-between mt-6">
             <div className="w-full md:w-1/2 lg:w-1/3 p-4">

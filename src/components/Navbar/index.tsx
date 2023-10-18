@@ -81,10 +81,10 @@ export default function NavBar() {
                                         <a onClick={toggleSubmenu}>▾</a>
                                     </div>
                                     {showSubmenu && (
-                                        <ul className="ms:absolute mt-3 ms:p-2 rounded-b-md  mb-12 bg-white">
-                                            <li className="ms:mb-3"><a href="/produtos/aplicacoes">Aplicações</a></li>
-                                            <li className="ms:mb-3"><a href="/produtos/bots">Bots</a></li>
-                                            <li className="ms:mb-3"><a href="/produtos/automatizacoes">Automatizações</a></li>
+                                        <ul className="ms:absolute mt-4 ms:p-2 rounded-b-md bg-white">
+                                            <li className="mb-4 ms:mb-3"><a href="/produtos/aplicacoes">Aplicações</a></li>
+                                            <li className="mb-4  ms:mb-3"><a href="/produtos/bots">Bots</a></li>
+                                            <li className="mb-4  ms:mb-3"><a href="/produtos/automatizacoes">Automatizações</a></li>
                                         </ul>
                                     )}
                                 </li>

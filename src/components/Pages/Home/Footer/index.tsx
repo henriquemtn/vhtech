@@ -24,7 +24,7 @@ export default function Footer() {
                                 <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">SERVIÇOS</h2>
                                 <nav className="list-none mb-10">
                                     <li>
-                                        <a href='/projetos' className="text-gray-600 hover:text-gray-800">Saiba mais</a>
+                                        <a href='/servicos' className="text-gray-600 hover:text-gray-800">Saiba mais</a>
                                     </li>
                                 </nav>
                             </div>                          
@@ -46,7 +46,7 @@ export default function Footer() {
                                 <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">PROJETOS</h2>
                                 <nav className="list-none mb-10">
                                     <li>
-                                        <a href="/servicos" className="text-gray-600 hover:text-gray-800">Ver todos os projetos</a>
+                                        <a href="/projetos" className="text-gray-600 hover:text-gray-800">Ver todos os projetos</a>
                                     </li>
 
                                 </nav>
@@ -55,10 +55,10 @@ export default function Footer() {
                                 <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">CONTATO</h2>
                                 <nav className="list-none mb-10">
                                     <li>
-                                        <a className="text-gray-600 hover:text-gray-800">Entre em contato</a>
+                                        <a href="/contato" className="text-gray-600 hover:text-gray-800">Entre em contato</a>
                                     </li>
                                     <li>
-                                        <a className="text-gray-600 hover:text-gray-800">Whatsapp</a>
+                                        <a href="https://api.whatsapp.com/send/?phone=5548984737009&text=Ol%C3%A1,+estou+interessado+em+contratar+o+servi%C3%A7o+gostaria+de+mais+informa%C3%A7%C3%B5es.&type=phone_number&app_absent=0" className="text-gray-600 hover:text-gray-800">Whatsapp</a>
                                     </li>
                                 </nav>
                             </div>
