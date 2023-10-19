@@ -32,13 +32,13 @@ export default function Footer() {
                                 <h2 className="title-font font-medium text-gray-900 tracking-widest text-sm mb-3">PRODUTOS</h2>
                                 <nav className="list-none mb-10">
                                     <li>
-                                        <a className="text-gray-600 hover:text-gray-800">Aplicações</a>
+                                        <a href="/produtos/aplicacoes" className="text-gray-600 hover:text-gray-800">Aplicações</a>
                                     </li>
                                     <li>
-                                        <a className="text-gray-600 hover:text-gray-800">Bot's</a>
+                                        <a href="/produtos/bots" className="text-gray-600 hover:text-gray-800">Bot's</a>
                                     </li>
                                     <li>
-                                        <a className="text-gray-600 hover:text-gray-800">Automatizações</a>
+                                        <a href="/produtos/automatizacao" className="text-gray-600 hover:text-gray-800">Automatização</a>
                                     </li>
                                 </nav>
                             </div>
@@ -72,7 +72,7 @@ export default function Footer() {
                             </p>
                             <span className="inline-flex sm:ml-auto sm:mt-0 mt-2 justify-center sm:justify-start">
                                 <a href='https://www.linkedin.com/company/97895498/admin/feed/posts/?feedType=following' className="ml-3 text-white">
-                                    <svg fill="currentColor" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="0" className="w-5 h-5" viewBox="0 0 24 24">
+                                    <svg fill="currentColor" stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="0" className="w-5 h-5" viewBox="0 0 24 24">
                                         <path stroke="none" d="M16 8a6 6 0 016 6v7h-4v-7a2 2 0 00-2-2 2 2 0 00-2 2v7h-4v-7a6 6 0 016-6zM2 9h4v12H2z"></path>
                                         <circle cx="4" cy="4" r="2" stroke="none"></circle>
                                     </svg>
