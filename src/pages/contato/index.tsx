@@ -40,7 +40,7 @@ const Contato = () => {
                 toast.success("Mensagem enviada com sucesso!");
                 resetForm();
             } catch (error) {
-                toast.error("Preencha todos os campos obrigatórios.");
+                toast.error("Ocorreu algum erro durante o envio da mensagem, tente novamente mais tarde.");
                 console.error('Erro ao enviar a mensagem:', error);
             }
         } else {
