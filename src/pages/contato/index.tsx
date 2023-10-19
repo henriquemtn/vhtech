@@ -35,7 +35,7 @@ const Contato = () => {
 
         if (isValidFormData()) {
             try {
-                const response = await axios.post('https://www.apimensagem.com.br/adicionar', mensagem);
+                const response = await axios.post('https://www.apimensagem.com.br/mensagem/adicionar', mensagem);
                 console.log('Status da resposta:', response.status);
                 toast.success("Mensagem enviada com sucesso!");
                 resetForm();
