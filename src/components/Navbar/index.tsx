@@ -84,7 +84,7 @@ export default function NavBar() {
                                         <ul className="ms:absolute mt-4 ms:p-2 rounded-b-md bg-white">
                                             <li className="mb-4 ms:mb-3"><a href="/produtos/aplicacoes">Aplicações</a></li>
                                             <li className="mb-4  ms:mb-3"><a href="/produtos/bots">Bots</a></li>
-                                            <li className="mb-4  ms:mb-3"><a href="/produtos/automatizacoes">Automatizações</a></li>
+                                            <li className="mb-4  ms:mb-3"><a href="/produtos/automatizacao">Automatizações</a></li>
                                         </ul>
                                     )}
                                 </li>

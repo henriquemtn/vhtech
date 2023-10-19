@@ -9,7 +9,7 @@ import Projetos from "../pages/projetos"
 import Contato from "../pages/contato"
 import Blog from "../pages/blog"
 import ProdutosBots from "../pages/produtos/bots"
-import ProdutosAuto from "../pages/produtos/automatizacoes"
+import ProdutosAuto from "../pages/produtos/automatizacao"
 import ProdutosApp from "../pages/produtos/aplicacoes"
 import PostPage from "../pages/blog/post"
 
@@ -23,7 +23,7 @@ export default function RouterManager() {
             <Route path="/servicos" element={<Servicos />}/>
             <Route path="/produtos" element={<Produtos />}/>
             <Route path="/produtos/aplicacoes" element={<ProdutosApp />}/>
-            <Route path="/produtos/automatizacoes" element={<ProdutosAuto />}/>
+            <Route path="/produtos/automatizacao" element={<ProdutosAuto />}/>
             <Route path="/produtos/bots" element={<ProdutosBots />}/>
             <Route path="/projetos" element={<Projetos />}/>
             <Route path="/blog" element={<Blog />}/>

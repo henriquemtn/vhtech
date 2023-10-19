@@ -1,6 +1,6 @@
 import ModalPages from "../../../components/ModalPages";
 import FadeInOnScroll from "../../../scripts/fadeInOnScroll";
-import Image from "../../../assets/produtos/app/pagamentos.png"
+import Image from "../../../assets/produtos/app/analytics.png"
 import Image2 from "../../../assets/produtos/app/agenda-tarefas.png"
 import Image3 from "../../../assets/produtos/app/analitics.png"
 import Image4 from "../../../assets/produtos/app/social.png"
@@ -27,8 +27,8 @@ export default function ProdutosApp() {
                         />
                         <ModalProdutos 
                         subtitle="Pronta entrega"
-                        title="Pagamento"
-                        description="descrição pagamento"
+                        title="Analytics"
+                        description="Aplicativo que permite analisar seu website com precisão."
                         image={Image}
                         preco="1800,00"
                         url="/#"

@@ -11,7 +11,7 @@ interface CustomProps {
 
 export default function ModalProdutos({ title, subtitle, description, image, url, preco }: CustomProps) {
     return (
-        <div className="w-full md:w-1/2 lg:w-1/4 p-4 min-h-[320px]">
+        <div className="w-full md:w-1/2 lg:w-1/4 p-4 min-h-[420px]">
             <img src={image} alt="imagem" className="w-full h-auto" />
             <p className="text-vh text-base mt-1">{subtitle}</p>
             <h1 className="text-xl font-medium">{title}</h1>

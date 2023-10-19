@@ -1,7 +1,7 @@
 import Topper from "../Topper";
-import Image from "../../../../assets/produtos/pagamentos.png";
-import Image2 from "../../../../assets/produtos/agenda-tarefas.png";
-import Image3 from "../../../../assets/produtos/analitics.png";
+import Image from "../../../../assets/produtos/apps.png";
+import Image2 from "../../../../assets/produtos/automatizacao.png";
+import Image3 from "../../../../assets/produtos/bots.png";
 import FadeInOnScroll from "../../../../scripts/fadeInOnScroll";
 import { HiOutlineArrowSmRight } from 'react-icons/hi';
 

@@ -1,8 +1,8 @@
 import ModalPages from "../../components/ModalPages";
 import FadeInOnScroll from "../../scripts/fadeInOnScroll";
-import Image from "../../assets/produtos/pagamentos.png"
-import Image2 from "../../assets/produtos/agenda-tarefas.png"
-import Image3 from "../../assets/produtos/analitics.png"
+import Image from "../../assets/produtos/apps.png"
+import Image2 from "../../assets/produtos/automatizacao.png"
+import Image3 from "../../assets/produtos/bots.png"
 import Footer from "../../components/Pages/Home/Footer";
 import { HiOutlineArrowSmRight } from 'react-icons/hi';
 
@@ -31,7 +31,7 @@ export default function Produtos() {
                             <p className="text-vh text-base mt-1">Personalizado</p>
                             <h1 className="text-xl font-medium">Automatizações</h1>
                             <p>Sistemas automatizados para facilitar tarefas diárias.</p>
-                            <a href="/produtos/automatizacoes" className="cursor-pointer flex justify-end items-center gap-1 text-base font-medium text-vh2">
+                            <a href="/produtos/automatizacao" className="cursor-pointer flex justify-end items-center gap-1 text-base font-medium text-vh2">
                                 Saiba mais
                                 <HiOutlineArrowSmRight className="mt-[2px]" />
                             </a>

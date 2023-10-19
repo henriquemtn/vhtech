@@ -20,31 +20,31 @@ export default function ProdutosBots() {
                         <ModalProdutos 
                         subtitle="Bot para Discord"
                         title="Agendamento de reunião"
-                        description="descrição da agenda de tarefas"
+                        description="Auxilia no planejamento e lembrete de reuniões."
                         image={Image2}
                         preco="150,00"
                         url="/#"
                         />
                         <ModalProdutos 
                         subtitle="Bot para Discord"
-                        title="Bot de nível"
-                        description="descrição pagamento"
+                        title="Perfil customizado do servidor"
+                        description="Torne seu servidor mais interativo com níveis de interação, perfils customizados e mais."
                         image={Image}
                         preco="150,00"
                         url="/#"
                         />
                         <ModalProdutos 
                         subtitle="Bot para Discord"
-                        title="Bot de tradução"
-                        description="descrição do Gerenciador de despesas"
+                        title="Card Collection"
+                        description="Colecione, venda e troque cartas de seus personagens e artistas favoritos."
                         image={Image3}
                         preco="150,00"
                         url="/#"
                         />
                         <ModalProdutos 
                         subtitle="Bot para Discord"
-                        title="Bot de Piadas ou Curiosidades"
-                        description="descrição do Chatbot"
+                        title="Tradutor em tempo real"
+                        description="Auxilia na comunicação por chat em diferentes linguagens."
                         image={Image4}
                         preco="150,00"
                         url="/#"
