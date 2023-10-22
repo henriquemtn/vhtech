@@ -2,7 +2,7 @@ export const postData = [
     {
         id: 'sistemas-automatizados',
         title: 'Sistemas Automatizados: Simplificando Sua Vida!',
-        image: 'http://localhost:5173/src/assets/blog/sistemas-automaticos.png',
+        image: 'https://www.vhwebsolutions.com.br/assets/sistemas-automaticos-05487d8d.png',
         description: `
       <p>Você já se perguntou como a tecnologia pode tornar sua vida mais fácil e eficiente? Bem, os sistemas automatizados são a resposta! <span role="img" aria-label="lupa">🔍</span><span role="img" aria-label="estrela">✨</span></p><br >
 
@@ -18,7 +18,7 @@ export const postData = [
     {
         id: 'voce-ja-ouviu-falar-do-react',
         title: 'Você já ouviu falar do React?',
-        image: 'http://localhost:5173/src/assets/blog/voce-conhece-react.png',
+        image: 'https://www.vhwebsolutions.com.br/assets/voce-conhece-react-cb76e10c.png',
         description: `
         <p>O React é uma poderosa tecnologia que impulsiona muitos dos aplicativos e sites que você utiliza diariamente. Mas, o que isso significa para o seu negócio? <span role="img" aria-label="pensativo">🤔</span></p><br >
   
